@@ -1,0 +1,2 @@
+/* **Instructions**
+Write a function that builds a list form a given array. Write a function that produces an array from a list. Add helper functions 1) that takes an element and a list and creates a new list that adds the element to the front of the input list, 2) that takes a list and a number and returns the element at the given position in the list or undefined if there is no such element. Write a recursive version of the second helper function */
