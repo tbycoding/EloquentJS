@@ -1,2 +1,0 @@
-/* **Instructoins**
-Write a function that takes into account two arguments: 1) a string and 2) an argument to be counted in the string. Return a number that indicates how many of times argument 2 occurs in argument 1. */

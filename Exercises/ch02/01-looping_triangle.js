@@ -1,8 +1,3 @@
-/* **Instructoins**
-Write a loop that makes seven calls to console.log to output the following:
-#
-##
-### etc. */
 
 //solution 5/24/18
 

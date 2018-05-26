@@ -1,5 +1,3 @@
-/* **Instructions** 
-write a program that returns numbers from 1 to 100. For numbers divisible by 3, print "Fizz" instead of the number. For numbers divisble by 5, print "Buzz" instead of the number. For numbers divisble by both 3 and 5, print "FizzBuzz" */
 
 //solution 5/23/18
 
